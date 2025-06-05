@@ -53,16 +53,6 @@ export default function Home() {
                   </p>
                 </div>
               </div>
-
-              <div className="flex justify-center py-4">
-                <img
-                  src="/placeholder.svg?height=200&width=300"
-                  alt="Fugro Workshop Safety Equipment"
-                  className="rounded-lg shadow-md"
-                  width={300}
-                  height={200}
-                />
-              </div>
             </div>
           </CardContent>
           <CardFooter className="flex flex-col items-center space-y-4 pb-8">
